@@ -8,7 +8,7 @@ As part of the course, I programmed a car that moves from side to side on a floa
 
 ____
 
-<img src="file:///Users/pavellyutikov/Desktop/prt1.png" title="" alt="prt1.png" data-align="center">
+<img src="https://github.com/PavelLyutikov/UnityLearn_Block1/blob/main/Screenshot/prt1.png?raw=true" title="" alt="prt1.png" data-align="center">
 
 ___
 
@@ -36,7 +36,7 @@ In this block, I programmed a top-down game, the purpose of which is to throw fo
 
 ---
 
-<img src="file:///Users/pavellyutikov/Desktop/prt2.png" title="" alt="prt2.png" data-align="center">
+<img src="https://github.com/PavelLyutikov/UnityLearn_Block1/blob/main/Screenshot/prt2.png?raw=true" title="" alt="prt2.png" data-align="center">
 
 ---
 
@@ -68,7 +68,7 @@ In this module, I have programmed a dynamic endless runner with side scrolling, 
 
 ---
 
-<img src="file:///Users/pavellyutikov/Desktop/prt3.png" title="" alt="prt3.png" data-align="center">
+<img src="https://github.com/PavelLyutikov/UnityLearn_Block1/blob/main/Screenshot/prt3.png?raw=true" title="" alt="prt3.png" data-align="center">
 
 ---
 
@@ -98,7 +98,7 @@ In this module, I have programmed an arcade-style sumo battle with the goal of k
 
 ---
 
-<img src="file:///Users/pavellyutikov/Desktop/prt4.png" title="" alt="prt4.png" data-align="center">
+<img src="https://github.com/PavelLyutikov/UnityLearn_Block1/blob/main/Screenshot/prt4.png?raw=true" title="" alt="prt4.png" data-align="center">
 
 ---
 
@@ -130,7 +130,7 @@ ____
 
 ---
 
-<img src="file:///Users/pavellyutikov/Desktop/prt5.png" title="" alt="prt5.png" data-align="center">
+<img src="https://github.com/PavelLyutikov/UnityLearn_Block1/blob/main/Screenshot/prt5.png?raw=true" title="" alt="prt5.png" data-align="center">
 
 ---
 
